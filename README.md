@@ -5,6 +5,5 @@ This is my work from week 2 of the Data Analysis Boot Camp.
 
 [green_stocks.xlsx](https://github.com/efuen0077/stocks-analysis/files/4352654/green_stocks.xlsx)
 
-[green_stocks.xlsm] (https:/github.com/efuen0077/stocks-analysis/files/4352654/green_stocks.xlsm)
 
 
