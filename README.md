@@ -25,5 +25,11 @@ Also, the code in this file allows for one to choose what year they want to run 
 [green_stocks.xlsm.zip](https://github.com/efuen0077/stocks-analysis/files/4366535/green_stocks.xlsm.zip)
 
 ## Challenge
+[green_stocks.xlsm 2.zip](https://github.com/efuen0077/stocks-analysis/files/4894533/green_stocks.xlsm.2.zip)
 
+#### 2017
+<img width="254" alt="VBA_Stocks_2017" src="https://user-images.githubusercontent.com/62089134/86997164-4b26a100-c162-11ea-8f05-f143608a8b30.png">
+
+#### 2018
+<img width="224" alt="VBA_Socks_2018" src="https://user-images.githubusercontent.com/62089134/86997169-4e219180-c162-11ea-9569-8fd45d605425.png">
 
